@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BITWISE/BITWISE.iml" filepath="$PROJECT_DIR$/BITWISE/BITWISE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BInarySearch/BInarySearch.iml" filepath="$PROJECT_DIR$/BInarySearch/BInarySearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/DSA.iml" filepath="$PROJECT_DIR$/.idea/DSA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hashing/Hashing.iml" filepath="$PROJECT_DIR$/Hashing/Hashing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Maths/Maths.iml" filepath="$PROJECT_DIR$/Maths/Maths.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Matrix/Matrix.iml" filepath="$PROJECT_DIR$/Matrix/Matrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion/Recursion.iml" filepath="$PROJECT_DIR$/Recursion/Recursion.iml" />
+    </modules>
+  </component>
+</project>
